@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1072985736658",
+    "firebase_url": "https://flashchat-matt.firebaseio.com",
+    "project_id": "flashchat-matt",
+    "storage_bucket": "flashchat-matt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072985736658:android:c6c0e7780a40f494",
+        "android_client_info": {
+          "package_name": "com.matruprasadChand.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072985736658-bfeutp07pla089gnpk32vcgdcd73dq25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqdDAdZYdbKTO8HIKzC5auno7Ws9s0z0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
